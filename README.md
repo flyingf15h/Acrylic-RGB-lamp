@@ -1,6 +1,6 @@
 # Arlecchino Furina 
 Vision 
-<img width="778" height="373" alt="image" src="https://github.com/user-attachments/assets/137c293f-f52d-4664-8766-8096fba0f699" />
+<img width="1312" height="594" alt="image" src="https://github.com/user-attachments/assets/48068efe-759b-45fd-854c-b50dd8f0aa58" />
 
 Materials (probably) 
 
