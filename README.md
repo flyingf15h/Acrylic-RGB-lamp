@@ -1,6 +1,7 @@
 # Arlecchino Furina 
 Vision 
-<img width="607" height="256" alt="image" src="https://github.com/user-attachments/assets/5ec91f1f-362f-4d80-b242-f4c65c91ccb4" />
+<img width="778" height="373" alt="image" src="https://github.com/user-attachments/assets/137c293f-f52d-4664-8766-8096fba0f699" />
+
 Definitely need 
 
 [WS2812B Led strip ~$5](https://www.aliexpress.com/item/1005006766819624.html?algo_pvid=750b7ca0-3353-48ef-b88a-3d3d81bf842f&algo_exp_id=750b7ca0-3353-48ef-b88a-3d3d81bf842f-1&pdp_ext_f=%7B%22order%22%3A%2223226%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%214.41%214.31%21%21%2121.44%2120.95%21%402103212317765423242748096e49b1%2112000038232636612%21sea%21CA%212965713149%21X%211%210%21n_tag%3A-29919%3Bd%3Afa6b15bf%3Bm03_new_user%3A-29895&curPageLogUid=F6mkf3wErufD&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006766819624%7C_p_origin_prod%3A)
@@ -13,3 +14,4 @@ Possibly need
 
 [Jumper wires ftf ~$3](https://www.aliexpress.com/item/1005007125827279.html?algo_pvid=000dd63d-552e-4a8f-b16e-36af9d47c3bb&algo_exp_id=000dd63d-552e-4a8f-b16e-36af9d47c3bb-9&pdp_ext_f=%7B%22order%22%3A%2213175%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%212.58%212.51%21%21%211.84%211.79%21%40210319b017765432409006589e24a0%2112000039486986636%21sea%21CA%212965713149%21X%211%210%21n_tag%3A-29919%3Bd%3Afa6b15bf%3Bm03_new_user%3A-29895&curPageLogUid=jACkayqanacV&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007125827279%7C_p_origin_prod%3A)
 
+[x3 WH148 10k Potentiometer](https://www.aliexpress.com/item/1005010332427377.html?algo_pvid=eb851698-baf5-4729-8554-d5d284a80e4e&algo_exp_id=eb851698-baf5-4729-8554-d5d284a80e4e&pdp_ext_f=%7B%22order%22%3A%221938%22%2C%22orig_sl_item_id%22%3A%221005010332427377%22%2C%22orig_item_id%22%3A%221005006213044445%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2110.69%215.34%21%21%2152.04%2126.02%21%402101c1ef17765441480402224d0a2d%2112000052001076647%21sea%21CA%212965713149%21X%211%210%21n_tag%3A-29919%3Bd%3Afa6b15bf%3Bm03_new_user%3A-29895&curPageLogUid=DBAQ9ttediWZ&utparam-url=scene%3Aimage_search%7Cquery_from%3Apc_web_image_search%7Cx_object_id%3A1005010332427377%7C_p_origin_prod%3A1005006213044445)
