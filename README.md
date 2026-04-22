@@ -2,7 +2,7 @@
 Vision 
 <img width="1312" height="594" alt="image" src="https://github.com/user-attachments/assets/48068efe-759b-45fd-854c-b50dd8f0aa58" />
 
-3d model customize from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
+3d model is modified from [Derek's snap fit box model](https://makerworld.com/en/models/1000458-snap-fit-box-customize-or-small-ready-print?from=search#profileId-977928) 
 
 Materials (probably) 
 
